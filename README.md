@@ -3,64 +3,74 @@
 </div>
 
 <p align="center">
-  <a href="mailto:luancesar.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/luan-c%C3%A9sar-395b9b418/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rebekar.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/RebekaLima-eng"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=RebekaLima-eng&color=blueviolet&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es"/>
 </p>
 
 ---
 
-## 👨‍🔧 Sobre mim
+## 👋 Olá, eu sou Rebeka Raquel
 
-Graduando em **Engenharia de Controle e Automação** pela UFPE, apaixonada por transformar ideias em soluções inteligentes que conectam software, hardware e processos industriais.
+🎓 Estudante de **Engenharia de Controle e Automação na UFPE**  
+⚙️ Interessada em **Automação Industrial, Sistemas Embarcados e IoT**
 
-- ⚙️ **Atuação:** Automação industrial, programação de CLPs, instrumentação e sistemas supervisórios (SCADA)
-- 💻 **Experiência:** Desenvolvimento de software, APIs e integração entre hardware e sistemas
+Atualmente desenvolvo projetos envolvendo a integração entre **hardware, software e sistemas industriais**, explorando tecnologias como:
 
-- 🧠 **Interesse:** Programação, automação, IA aplicada a processos e sistemas embarcados
-
----
-
-## 🛠️ Stack
-
-<table width="100%">
+<table>
   <tr>
-    <th width="33%">Programação</th>
-    <th width="33%">Automação & Engenharia</th>
-    <th width="33%">Ferramentas</th>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automação Industrial</h3>
+      <p>PLC Siemens S7-1200<br/>TIA Portal<br/>Ladder Logic</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 IoT e Automação Residencial</h3>
+      <p>Node-RED<br/>MQTT<br/>Home Assistant</p>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,js" alt="Linguagens"/>
+    <td width="50%" valign="top">
+      <h3>💻 Desenvolvimento</h3>
+      <p>Python<br/>SQLite<br/>MariaDB</p>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=matlab,arduino,raspberrypi" alt="Engenharia"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode" alt="Ferramentas"/>
+    <td width="50%" valign="top">
+      <h3>🧰 Ferramentas</h3>
+      <p>Git<br/>Linux<br/>VirtualBox</p>
     </td>
   </tr>
 </table>
 
+Tenho experiência prática com o desenvolvimento de soluções de automação, incluindo comunicação entre dispositivos industriais, aquisição de dados, dashboards supervisórios e integração de sistemas utilizando protocolos de comunicação.
 
-
-## 📌 Áreas de interesse
-
-<p align="center">
-  <code>⚡ Automação de processos industriais</code>&nbsp;
-  <code>📡 Sistemas SCADA e monitoramento</code>&nbsp;
-  <code>🔧 Instrumentação eletrônica</code>&nbsp;
-  <code>🤖 Integração hardware-software</code>&nbsp;
-  <code>🧠 IA aplicada a processos</code>&nbsp;
-
-</p>
+🚀 Busco constantemente transformar desafios de engenharia em soluções inteligentes, conectando automação, programação e tecnologia.
 
 ---
 
-## 🚀 Projetos em destaque
+## 📚 Atualmente aprendendo e aprimorando conhecimentos
 
-_Em breve_
+- Desenvolvimento Web
+- Sistemas IoT
+- Inteligência Artificial aplicada à automação
+- Arquitetura de sistemas industriais
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,linux,git,github,mysql,sqlite,vscode,arduino,raspberrypi" alt="Tecnologias e ferramentas"/>
+</p>
+
+<p align="center">
+  <code>Siemens S7-1200</code>&nbsp;
+  <code>TIA Portal</code>&nbsp;
+  <code>Ladder Logic</code>&nbsp;
+  <code>Node-RED</code>&nbsp;
+  <code>MQTT</code>&nbsp;
+  <code>Home Assistant</code>&nbsp;
+  <code>MariaDB</code>&nbsp;
+  <code>VirtualBox</code>
+</p>
 
 ---
 
@@ -71,11 +81,9 @@ _Em breve_
   </picture>
 </div>
 
-
-
 <div align="center">
   <br/>
-  <sub><i>"Construindo soluções com curiosidade, engenharia e código."</i></sub>
+  <sub><i>"A engenharia acontece quando conhecimento se transforma em solução."</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=100&section=footer" width="100%"/>
 </div>
