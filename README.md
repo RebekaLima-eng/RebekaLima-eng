@@ -17,28 +17,30 @@
 
 Atualmente desenvolvo projetos envolvendo a integração entre **hardware, software e sistemas industriais**, explorando tecnologias como:
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>⚙️ Automação Industrial</h3>
       <p>PLC Siemens S7-1200<br/>TIA Portal<br/>Ladder Logic</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🏠 IoT e Automação Residencial</h3>
       <p>Node-RED<br/>MQTT<br/>Home Assistant</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>💻 Desenvolvimento</h3>
       <p>Python<br/>SQLite<br/>MariaDB</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🧰 Ferramentas</h3>
       <p>Git<br/>Linux<br/>VirtualBox</p>
     </td>
   </tr>
 </table>
+</div>
 
 Tenho experiência prática com o desenvolvimento de soluções de automação, incluindo comunicação entre dispositivos industriais, aquisição de dados, dashboards supervisórios e integração de sistemas utilizando protocolos de comunicação.
 
