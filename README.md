@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Olá, eu sou Rebeka Raquel
+##  Olá, eu sou Rebeka Raquel
 
 🎓 Estudante de **Engenharia de Controle e Automação na UFPE**  
 ⚙️ Interessada em **Automação Industrial, Sistemas Embarcados e IoT**
