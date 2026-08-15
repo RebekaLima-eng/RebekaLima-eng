@@ -57,7 +57,7 @@ Tenho experiência prática com o desenvolvimento de soluções de automação, 
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,linux,git,github,mysql,sqlite,vscode,arduino,raspberrypi" alt="Tecnologias e ferramentas"/>
