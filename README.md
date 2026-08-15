@@ -44,11 +44,11 @@ Atualmente desenvolvo projetos envolvendo a integração entre **hardware, softw
 
 Tenho experiência prática com o desenvolvimento de soluções de automação, incluindo comunicação entre dispositivos industriais, aquisição de dados, dashboards supervisórios e integração de sistemas utilizando protocolos de comunicação.
 
-🚀 Busco constantemente transformar desafios de engenharia em soluções inteligentes, conectando automação, programação e tecnologia.
+ Busco constantemente transformar desafios de engenharia em soluções inteligentes, conectando automação, programação e tecnologia.
 
 ---
 
-## 📚 Atualmente aprendendo e aprimorando conhecimentos
+##  Atualmente aprendendo e aprimorando conhecimentos :
 
 - Desenvolvimento Web
 - Sistemas IoT
